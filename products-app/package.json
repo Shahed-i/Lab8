@@ -7,7 +7,10 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "axios": "^1.6.7",
+=======
+>>>>>>> 80e1d5044b2934b68e7769273ba9e52a3b3e9eb4
     "bootstrap": "^5.3.3",
     "dom": "^0.0.3",
     "react": "^18.2.0",
